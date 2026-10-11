@@ -34,8 +34,8 @@ Each folder contains my practice programs, exercises, mini projects, and learnin
 - Variables & Data Types
 - Input & Output
 - Operators
-- Conditional Statements *(Coming Soon)*
-- Loops *(Coming Soon)*
+- Conditional Statements
+- Loops
 - Functions *(Coming Soon)*
 - Arrays *(Coming Soon)*
 
