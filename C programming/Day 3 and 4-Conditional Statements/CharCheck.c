@@ -1,4 +1,5 @@
 //this program is to check whether the given character is a vowel, consonant, or digit.
+
 #include <stdio.h>
 int main(){
 char ch;
